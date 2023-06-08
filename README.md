@@ -1,1 +1,3 @@
-# Java_HWorld
+# maven-project
+
+Simple Maven Project
